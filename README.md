@@ -27,7 +27,7 @@
 
 ### Description
 
-📺 [YouTube Playlist](https://studio.youtube.com/playlist/PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07/edit) for this repository.
+📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the Next.js for Beginners tutorial series.
 
@@ -48,19 +48,23 @@
 ### ⚙ Free Web Dev Tools
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
-- 🔗 [Node.js & NPM](https://nodejs.org/en/)
+- 🔗 [Node.js & NPM](https://nodejs.org)
 
 ### 📚 References
 - 🔗 [MDN WebSockets](https://developer.mozilla.org/en-US/docs/Glossary/WebSockets)
+- 🔗 [Socket.io Official Site](https://socket.io/)
 
 
 ### 🚀 Dependencies
 - 🔗 [ws](https://www.npmjs.com/package/ws)
+- 🔗 [socket.io](https://www.npmjs.com/package/socket.io)
+- 🔗 [socket.io client library](https://cdnjs.com/libraries/socket.io)
 
 ---
 
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Intro to Websockets](https://github.com/gitdagray/build-chat-app/tree/main/lesson01)
+- 🔗 [Chapter 2 - Intro to Socket.io](https://github.com/gitdagray/build-chat-app/tree/main/lesson02)
 
 
