@@ -48,17 +48,19 @@
 ### ⚙ Free Web Dev Tools
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
-- 🔗 [Node.js & NPM](https://nodejs.org)
 
 ### 📚 References
+- 🔗 [Node.js & NPM](https://nodejs.org)
 - 🔗 [MDN WebSockets](https://developer.mozilla.org/en-US/docs/Glossary/WebSockets)
 - 🔗 [Socket.io Official Site](https://socket.io/)
+- 🔗 [Express.js Official Site](https://expressjs.com/)
 
 
 ### 🚀 Dependencies
 - 🔗 [ws](https://www.npmjs.com/package/ws)
 - 🔗 [socket.io](https://www.npmjs.com/package/socket.io)
 - 🔗 [socket.io client library](https://cdnjs.com/libraries/socket.io)
+- 🔗 [express](https://www.npmjs.com/package/express)
 
 ---
 
@@ -66,5 +68,7 @@
 
 - 🔗 [Chapter 1 - Intro to Websockets](https://github.com/gitdagray/build-chat-app/tree/main/lesson01)
 - 🔗 [Chapter 2 - Intro to Socket.io](https://github.com/gitdagray/build-chat-app/tree/main/lesson02)
+- 🔗 [Chapter 3 - Express](https://github.com/gitdagray/build-chat-app/tree/main/lesson03)
+- 🔗 [Chapter 4 - Activity Detection](https://github.com/gitdagray/build-chat-app/tree/main/lesson04)
 
 

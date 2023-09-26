@@ -1,0 +1,28 @@
+* {
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+ul {
+    display: flex;
+    flex-flow: column;
+    justify-content: left;
+    list-style-type: none;
+}
+
+input,
+button {
+    border-radius: 10px;
+    padding: 10px;
+}
