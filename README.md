@@ -1,6 +1,6 @@
 # "Building a Chat App"
 
-### Full Course - ?? Chapters
+### Full Course - 5 Chapters
 
 ---
 
@@ -70,5 +70,6 @@
 - 🔗 [Chapter 2 - Intro to Socket.io](https://github.com/gitdagray/build-chat-app/tree/main/lesson02)
 - 🔗 [Chapter 3 - Express](https://github.com/gitdagray/build-chat-app/tree/main/lesson03)
 - 🔗 [Chapter 4 - Activity Detection](https://github.com/gitdagray/build-chat-app/tree/main/lesson04)
+- 🔗 [Chapter 5 - Chat Rooms Project](https://github.com/gitdagray/build-chat-app/tree/main/lesson05)
 
 
